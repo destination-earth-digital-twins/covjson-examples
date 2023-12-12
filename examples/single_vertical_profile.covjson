@@ -67,7 +67,7 @@
 					}
 				}
 			},
-			{   // not used if we omit the "t"
+			{   
 				"coordinates": [
 					"t"
 				],
