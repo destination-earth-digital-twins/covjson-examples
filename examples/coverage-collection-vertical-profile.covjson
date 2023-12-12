@@ -1,5 +1,5 @@
 {
-	"type": "CoverageCollection",
+    "type": "CoverageCollection",
     "domainType" : "VerticalProfile",
     "coverages": [
         {
